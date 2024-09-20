@@ -11,6 +11,7 @@ a{
     border: none;
     padding: 0px;
     padding: 10px;
+    outline: none;
 }
 .five{
     border: 2px solid black;
